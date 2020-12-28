@@ -4,4 +4,4 @@ tech blog
 
 - [https://www.techleer.com/](https://www.techleer.com/)
 
-- [https://www.theseattledataguy.com/](https://www.theseattledataguy.com/)
+- [Seattle Data Guy](https://www.theseattledataguy.com/)

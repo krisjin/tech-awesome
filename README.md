@@ -9,3 +9,4 @@ tech blog
 - [thenewstack](https://thenewstack.io/)
 - [datatron](https://blog.datatron.com/what-is-model-drift/)
 - [openml](https://www.openml.org/)
+- [lfaidata](https://lfaidata.foundation/news/blog/)

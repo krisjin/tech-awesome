@@ -11,3 +11,4 @@ tech blog
 - [openml](https://www.openml.org/)
 - [lfaidata](https://lfaidata.foundation/news/blog/)
 - [usenix](https://www.usenix.org/)
+- [usenix atc20 ](https://www.usenix.org/conference/atc20/technical-sessions)

@@ -13,3 +13,4 @@ tech blog
 - [usenix](https://www.usenix.org/)
 - [usenix atc20 ](https://www.usenix.org/conference/atc20/technical-sessions)
 - [An-Introduction-To-Online-Machine-Learning](https://dziganto.github.io/data%20science/online%20learning/python/scikit-learn/An-Introduction-To-Online-Machine-Learning/)
+-[types-of-learning-in-machine-learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)

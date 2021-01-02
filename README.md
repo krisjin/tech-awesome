@@ -18,4 +18,6 @@ tech blog
 - [simple-introduction-to-online-learning-in-machine-learning](https://www.iunera.com/kraken/fabric/simple-introduction-to-online-learning-in-machine-learning/)
 
 
+
+## Online Machine Learning
 - [http://cs229.stanford.edu/syllabus.html](http://cs229.stanford.edu/syllabus.html)

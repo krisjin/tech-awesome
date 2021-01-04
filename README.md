@@ -46,3 +46,4 @@ tech blog
 - [Online Learning:Theory, Algorithms, and Applications](https://ttic.uchicago.edu/~shai/papers/ShalevThesis07.pdf)
 - [https://ttic.uchicago.edu/~shai/](https://ttic.uchicago.edu/~shai/)
 - yoram machine learning : term
+- [2008-Theory_and_Practice_of_Online_Learning](https://www.aupress.ca/app/uploads/120146_99Z_Anderson_2008-Theory_and_Practice_of_Online_Learning.pdf)

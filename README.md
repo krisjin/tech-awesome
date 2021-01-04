@@ -28,3 +28,4 @@ tech blog
 - [Online Machine Learning in Big Data Streams](https://arxiv.org/pdf/1802.05872.pdf)
 - [online ml river](https://github.com/online-ml/river)
 - [https://github.com/real-time-machine-learning](https://github.com/real-time-machine-learning)
+- [https://www.jmlr.org/](https://www.jmlr.org/)

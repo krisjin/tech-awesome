@@ -23,6 +23,8 @@ tech blog
 - [https://www.kaggle.com/marto24/cassava-baseline-model](https://www.kaggle.com/marto24/cassava-baseline-model)
 - [understanding-machine-learning-theory-algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
+- [arxiv.org/list/cs/pastweek](https://arxiv.org/list/cs/pastweek?skip=0&show=25)
+
 
 
 ## Online Machine Learning

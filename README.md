@@ -16,6 +16,7 @@ tech blog
 - [types-of-learning-in-machine-learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
 - [https://www.sciencedirect.com/](https://www.sciencedirect.com/)
 - [simple-introduction-to-online-learning-in-machine-learning](https://www.iunera.com/kraken/fabric/simple-introduction-to-online-learning-in-machine-learning/)
+- [https://www.techopedia.com/](https://www.techopedia.com/)
 
 
 

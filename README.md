@@ -20,6 +20,8 @@ tech blog
 
 - [https://faculty.ucmerced.edu/mhyang/course/eecs275/matrix_computation.htm](https://faculty.ucmerced.edu/mhyang/course/eecs275/matrix_computation.htm)
 
+- [https://www.kaggle.com/marto24/cassava-baseline-model](https://www.kaggle.com/marto24/cassava-baseline-model)
+
 
 
 ## Online Machine Learning

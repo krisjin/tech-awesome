@@ -27,7 +27,7 @@ tech blog
 
 - [https://hackr.io/](https://hackr.io/)
 
--[https://www.skillshare.com/?via=header](https://www.skillshare.com/?via=header)
+- [https://www.skillshare.com/?via=header](https://www.skillshare.com/?via=header)
 
 
 
@@ -44,3 +44,4 @@ tech blog
 - [https://www.mit.edu/~rakhlin/6.883/](https://www.mit.edu/~rakhlin/6.883/)
 - [FTRL](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
 - [Online Learning:Theory, Algorithms, and Applications](https://ttic.uchicago.edu/~shai/papers/ShalevThesis07.pdf)
+- [https://ttic.uchicago.edu/~shai/](https://ttic.uchicago.edu/~shai/)

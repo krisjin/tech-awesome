@@ -21,6 +21,7 @@ tech blog
 - [https://faculty.ucmerced.edu/mhyang/course/eecs275/matrix_computation.htm](https://faculty.ucmerced.edu/mhyang/course/eecs275/matrix_computation.htm)
 
 - [https://www.kaggle.com/marto24/cassava-baseline-model](https://www.kaggle.com/marto24/cassava-baseline-model)
+- [understanding-machine-learning-theory-algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
 
 

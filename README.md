@@ -24,3 +24,4 @@ tech blog
 - [https://ttic.uchicago.edu/~shai/icml08tutorial/](https://ttic.uchicago.edu/~shai/icml08tutorial/)
 - [http://www.cs.cmu.edu/~avrim/Papers/survey.pdf](http://www.cs.cmu.edu/~avrim/Papers/survey.pdf)
 - [http://cs229.stanford.edu/notes2020spring/lecture1_slide.pdf](http://cs229.stanford.edu/notes2020spring/lecture1_slide.pdf)
+- [Online Machine Learning in Big Data Streams](https://arxiv.org/pdf/1802.05872.pdf)

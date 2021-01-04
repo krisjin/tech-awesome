@@ -27,6 +27,8 @@ tech blog
 
 - [https://hackr.io/](https://hackr.io/)
 
+-[https://www.skillshare.com/?via=header](https://www.skillshare.com/?via=header)
+
 
 
 ## Online Machine Learning

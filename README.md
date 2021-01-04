@@ -25,6 +25,8 @@ tech blog
 
 - [arxiv.org/list/cs/pastweek](https://arxiv.org/list/cs/pastweek?skip=0&show=25)
 
+- [https://hackr.io/](https://hackr.io/)
+
 
 
 ## Online Machine Learning

@@ -43,3 +43,4 @@ tech blog
 - [scikit-multiflow](scikit-multiflow)
 - [https://www.mit.edu/~rakhlin/6.883/](https://www.mit.edu/~rakhlin/6.883/)
 - [FTRL](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
+- [Online Learning:Theory, Algorithms, and Applications](https://ttic.uchicago.edu/~shai/papers/ShalevThesis07.pdf)

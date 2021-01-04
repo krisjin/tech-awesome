@@ -27,3 +27,4 @@ tech blog
 - [http://cs229.stanford.edu/notes2020spring/lecture1_slide.pdf](http://cs229.stanford.edu/notes2020spring/lecture1_slide.pdf)
 - [Online Machine Learning in Big Data Streams](https://arxiv.org/pdf/1802.05872.pdf)
 - [online ml river](https://github.com/online-ml/river)
+- [https://github.com/real-time-machine-learning](https://github.com/real-time-machine-learning)

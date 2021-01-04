@@ -18,6 +18,8 @@ tech blog
 - [simple-introduction-to-online-learning-in-machine-learning](https://www.iunera.com/kraken/fabric/simple-introduction-to-online-learning-in-machine-learning/)
 - [https://www.techopedia.com/](https://www.techopedia.com/)
 
+- [https://faculty.ucmerced.edu/mhyang/course/eecs275/matrix_computation.htm](https://faculty.ucmerced.edu/mhyang/course/eecs275/matrix_computation.htm)
+
 
 
 ## Online Machine Learning

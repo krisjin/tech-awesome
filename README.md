@@ -29,3 +29,4 @@ tech blog
 - [online ml river](https://github.com/online-ml/river)
 - [https://github.com/real-time-machine-learning](https://github.com/real-time-machine-learning)
 - [https://www.jmlr.org/](https://www.jmlr.org/)
+- [scikit-multiflow](scikit-multiflow)

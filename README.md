@@ -31,6 +31,7 @@ tech blog
 
 - [https://www.aupress.ca/books/](https://www.aupress.ca/books/)
 - [https://www.kdnuggets.com/](https://www.kdnuggets.com/)
+- [GoogleAIBlog](https://blog.google/technology/ai/)
 
 
 ## Online Machine Learning

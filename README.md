@@ -30,6 +30,7 @@ tech blog
 - [https://www.skillshare.com/?via=header](https://www.skillshare.com/?via=header)
 
 - [https://www.aupress.ca/books/](https://www.aupress.ca/books/)
+- [https://www.kdnuggets.com/](https://www.kdnuggets.com/)
 
 
 ## Online Machine Learning

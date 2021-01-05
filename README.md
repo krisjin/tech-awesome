@@ -49,3 +49,4 @@ tech blog
 - yoram machine learning : term
 - [2008-Theory_and_Practice_of_Online_Learning](https://www.aupress.ca/app/uploads/120146_99Z_Anderson_2008-Theory_and_Practice_of_Online_Learning.pdf)
 - [Introduction to Online Learning](https://haipeng-luo.net/courses/CSCI699/)
+- [http://saili.science/online-learning/](http://saili.science/online-learning/)

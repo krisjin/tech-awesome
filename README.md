@@ -40,6 +40,7 @@ tech blog
 - [https://github.com/rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt)
 - [http://justinhj.github.io/](http://justinhj.github.io/)
 - [https://jiang-hao.com/](https://jiang-hao.com/)
+- [http://wxwidget.github.io/](http://wxwidget.github.io/)
 
 
 ## Online Machine Learning

@@ -44,6 +44,7 @@ tech blog
 - [https://codingnote.cc/](https://codingnote.cc/)
 - [http://yjliu.net/cv/](http://yjliu.net/cv/)
 
+http://qingyuanxingsi.github.io/
 
 https://zdkswd.github.io/
 

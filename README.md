@@ -48,6 +48,7 @@ http://qingyuanxingsi.github.io/
 
 https://zdkswd.github.io/
 
+https://libertydream.github.io/
 
 ## Online Machine Learning
 - [http://cs229.stanford.edu/syllabus.html](http://cs229.stanford.edu/syllabus.html)

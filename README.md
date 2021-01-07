@@ -38,6 +38,7 @@ tech blog
 - [星爷的博客](http://www.readingnotes.site/)
 - [http://just4coding.com/](http://just4coding.com/)
 - [https://github.com/rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt)
+- [http://justinhj.github.io/](http://justinhj.github.io/)
 
 
 

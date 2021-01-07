@@ -42,6 +42,7 @@ tech blog
 - [https://jiang-hao.com/](https://jiang-hao.com/)
 - [http://wxwidget.github.io/](http://wxwidget.github.io/)
 - [https://codingnote.cc/](https://codingnote.cc/)
+- [http://yjliu.net/cv/](http://yjliu.net/cv/)
 
 
 ## Online Machine Learning

@@ -41,6 +41,7 @@ tech blog
 - [http://justinhj.github.io/](http://justinhj.github.io/)
 - [https://jiang-hao.com/](https://jiang-hao.com/)
 - [http://wxwidget.github.io/](http://wxwidget.github.io/)
+- [https://codingnote.cc/](https://codingnote.cc/)
 
 
 ## Online Machine Learning

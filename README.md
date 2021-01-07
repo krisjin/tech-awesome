@@ -35,6 +35,11 @@ tech blog
 - [google-machine-learning](https://developers.google.com/machine-learning/crash-course)]
 - [freewill blog](http://freewill.top/)
 - [https://daiwk.github.io/](https://daiwk.github.io/)
+- [星爷的博客](http://www.readingnotes.site/)
+- [http://just4coding.com/](http://just4coding.com/)
+- [https://github.com/rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt)
+
+
 
 ## Online Machine Learning
 - [http://cs229.stanford.edu/syllabus.html](http://cs229.stanford.edu/syllabus.html)

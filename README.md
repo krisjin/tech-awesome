@@ -39,7 +39,7 @@ tech blog
 - [http://just4coding.com/](http://just4coding.com/)
 - [https://github.com/rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt)
 - [http://justinhj.github.io/](http://justinhj.github.io/)
-
+- [https://jiang-hao.com/](https://jiang-hao.com/)
 
 
 ## Online Machine Learning
